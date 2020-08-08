@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-featured_image: ''
+featured_image: '/images/library.jpg'
 date: {{ .Date }}
+tags: ['Announcements']
+toc: false
 draft: true
 ---

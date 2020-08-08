@@ -1,13 +1,14 @@
 title = "Oberhauser Foundation Blog"
+copyright = "Oberhauser Foundation"
 baseURL = "https://blog.oberhauser.foundation"
 languageCode = "en-us"
-theme = "ananke"
+theme = "default"
 
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 25
+Paginate = 6
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -21,6 +22,7 @@ enableRobotsTXT = true
   site_logo = "/images/logo.png"
   show_reading_time = true
   description = "The official blog of the Oberhauser Foundation"
+  custom_css = ["css/custom.css"]
   facebook = ""
   twitter = ""
   instagram = ""
@@ -35,4 +37,4 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-near-black"
   featured_image = "/images/header-background.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 3
