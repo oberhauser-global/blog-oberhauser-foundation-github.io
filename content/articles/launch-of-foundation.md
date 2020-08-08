@@ -8,16 +8,18 @@ toc: false
 draft: true
 ---
 
-**Boston, Massachusetts USA** &mdash; June 29th, 2020 &mdash; The Oberhauser Foundation was established under the charter of the Oberhauser Dynasty in
+**Boston, Massachusetts USA** &mdash; June 29th, 2020 &mdash; The _Oberhauser Foundation_ was established under the charter of the _Oberhauser Dynasty_ in
 the midst of a global COVID-19 pandemic and different economical crises across the world.
 
+<!--more-->
+
 The main directive of the foundation is to manage the endowment for charitable giving and to align the yearly issued grants with the values of
-the donors and the mission of the Oberhauser Dynasty.
+the donors and the mission of the _Oberhauser Dynasty_.
 
 It creates structures for sustainable giving carried on by generations to come. By pooling resources grants can be directed in a more
 efficient and targeted way. Increasing the overall impact of each single donor.
 
-_Learn more under [https://oberhauser.foundation](https://oberhauser.foundation/)_
+_Learn more under [https://oberhauser.foundation](https://oberhauser.foundation/)_ and stay tuned for more articles on this page.
 
 <!-- ![Endowment as of 2020-06-29](/images/endowment-2020-06-29.svg)
 

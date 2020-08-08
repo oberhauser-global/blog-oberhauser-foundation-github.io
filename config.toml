@@ -1,4 +1,4 @@
-title = "Oberhauser Foundation Blog"
+title = "Oberhauser Foundation News"
 copyright = "Oberhauser Foundation"
 baseURL = "https://blog.oberhauser.foundation"
 languageCode = "en-us"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/images/favicon.ico"
   site_logo = "/images/logo.png"
   show_reading_time = true
   description = "The official blog of the Oberhauser Foundation"
