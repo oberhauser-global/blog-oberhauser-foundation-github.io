@@ -3,6 +3,8 @@ baseURL = "https://blog.oberhauser.foundation"
 languageCode = "en-us"
 theme = "ananke"
 
+publishDir = "docs"
+
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 25
