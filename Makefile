@@ -3,4 +3,6 @@ SHELL := /bin/bash
 .PHONY: publish
 
 publish:
-	@hugo
+	set -x
+	hugo && git add ./docs
+	git status
