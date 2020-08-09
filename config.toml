@@ -4,6 +4,7 @@ baseURL = "https://blog.oberhauser.foundation"
 languageCode = "en-us"
 theme = "default"
 
+# Needed for github pages
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
@@ -37,4 +38,4 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-near-black"
   featured_image = "/images/header-background.jpg"
-  recent_posts_number = 3
+  recent_posts_number = 10

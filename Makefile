@@ -8,4 +8,5 @@ publish:
 	git status
 
 run:
+	hugo version
 	hugo serve -D
