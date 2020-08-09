@@ -7,6 +7,12 @@
 Please make sure to set the `draft` field in the created md to false once you want
 to publish it.
 
+## Working inside DevContainer
+
+Start the project inside VS Codes DevContainer environment and run (from inside the container):
+
+    $ make run
+
 # Publish to Github
 
 The complete website (statically compiled via hugo) is under `./docs` in order

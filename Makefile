@@ -6,3 +6,6 @@ publish:
 	set -x
 	hugo && git add ./docs
 	git status
+
+run:
+	hugo serve -D
