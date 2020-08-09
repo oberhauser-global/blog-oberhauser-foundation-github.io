@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oberhauser Foundation News</title>
-    <link>https://blog.oberhauser.foundation/</link>
-    <description>Recent content on Oberhauser Foundation News</description>
+    <title>Information on Oberhauser Foundation News</title>
+    <link>https://blog.oberhauser.foundation/tags/information/</link>
+    <description>Recent content in Information on Oberhauser Foundation News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Oberhauser Foundation</copyright>
     <lastBuildDate>Sun, 09 Aug 2020 10:35:52 -0400</lastBuildDate>
     
-	<atom:link href="https://blog.oberhauser.foundation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.oberhauser.foundation/tags/information/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,17 +32,6 @@ also insight into why these categories have been selected.&lt;/p&gt;</descriptio
       <description>&lt;p&gt;&lt;strong&gt;Year 2020 Update&lt;/strong&gt; — This article outlines the targeted capital distribution and endowment
 structure of 2020. For information about the distribution of grants in 2020 see article
 &lt;a href=&#34;https://blog.oberhauser.foundation/articles/grants-2020/&#34;&gt;Grants 2020&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oberhauser Foundation Launch</title>
-      <link>https://blog.oberhauser.foundation/articles/launch-of-foundation/</link>
-      <pubDate>Mon, 29 Jun 2020 10:30:27 -0400</pubDate>
-      
-      <guid>https://blog.oberhauser.foundation/articles/launch-of-foundation/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Boston, Massachusetts USA&lt;/strong&gt; — June 29th, 2020 — The &lt;em&gt;Oberhauser Foundation&lt;/em&gt;
-was established under the charter of the &lt;em&gt;Oberhauser Dynasty&lt;/em&gt; in the midst of the global
-COVID-19 pandemic and a global economical crisis.&lt;/p&gt;</description>
     </item>
     
   </channel>

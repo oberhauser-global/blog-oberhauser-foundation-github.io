@@ -19,8 +19,8 @@ and to align the yearly issued grants with the values of the donors and the miss
 of the _Oberhauser Dynasty_.
 
 The created structures facilitate sustainable giving that can be carried on by future
-generations. By pooling resources grants can be directed in a more efficient and
-targeted way, increasing the overall impact of each single donor.
+generations. By pooling resources, grants can be directed in a more efficient and
+targeted way.
 
 _Learn more under [https://oberhauser.foundation](https://oberhauser.foundation/)_
 and stay tuned for more news articles published on
