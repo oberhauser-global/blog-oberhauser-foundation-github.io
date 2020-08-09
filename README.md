@@ -1,3 +1,12 @@
+# Getting Started
+
+## New Article
+
+    $ hugo new articles/grants-2020.md
+
+Please make sure to set the `draft` field in the created md to false once you want
+to publish it.
+
 # Publish to Github
 
 The complete website (statically compiled via hugo) is under `./docs` in order
