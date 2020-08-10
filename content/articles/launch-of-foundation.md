@@ -1,5 +1,6 @@
 ---
 title: 'Oberhauser Foundation Launch'
+description: 'Official Obehauser Foundation launch press release'
 featured_image: '/images/firework.jpg'
 date: 2020-06-29T10:30:27-04:00
 author: Alex Oberhauser
