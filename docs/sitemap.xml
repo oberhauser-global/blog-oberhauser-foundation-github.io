@@ -3,7 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.oberhauser.foundation/categories/article/</loc>
+    <lastmod>2020-08-09T10:35:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.oberhauser.foundation/articles/</loc>
+    <lastmod>2020-08-09T10:35:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.oberhauser.foundation/categories/</loc>
     <lastmod>2020-08-09T10:35:52-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,7 +73,8 @@
   </url>
   
   <url>
-    <loc>https://blog.oberhauser.foundation/categories/</loc>
+    <loc>https://blog.oberhauser.foundation/categories/press-release/</loc>
+    <lastmod>2020-06-29T10:30:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

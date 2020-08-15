@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Oberhauser Foundation</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 10:35:52 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.oberhauser.foundation/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Article</title>
+      <link>https://blog.oberhauser.foundation/categories/article/</link>
+      <pubDate>Sun, 09 Aug 2020 10:35:52 -0400</pubDate>
+      
+      <guid>https://blog.oberhauser.foundation/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press Release</title>
+      <link>https://blog.oberhauser.foundation/categories/press-release/</link>
+      <pubDate>Mon, 29 Jun 2020 10:30:27 -0400</pubDate>
+      
+      <guid>https://blog.oberhauser.foundation/categories/press-release/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
