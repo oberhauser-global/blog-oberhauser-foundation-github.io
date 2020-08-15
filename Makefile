@@ -4,7 +4,7 @@ SHELL := /bin/bash
 
 publish:
 	set -x
-	hugo && git add ./docs
+	HUGO_ENV=production hugo && git add ./docs
 	git status
 
 run:
