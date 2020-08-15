@@ -1,3 +1,8 @@
 .bg-top {
   background-position: center;
 }
+
+.bg-of-custom {
+    background-color: #162341;
+    padding: 2em 0 2em 0;
+}
