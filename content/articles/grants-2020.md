@@ -4,7 +4,7 @@ description: 'Outlines the 2020 grant distributions by category and percentage o
 featured_image: '/images/money-jar.jpg'
 date: 2020-08-09T10:35:52-04:00
 categories: ['Article']
-tags: ['Information']
+tags: ['Report', 'Grants']
 toc: true
 draft: false
 ---

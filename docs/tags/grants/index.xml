@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grants on Oberhauser Foundation News</title>
+    <link>https://blog.oberhauser.foundation/tags/grants/</link>
+    <description>Recent content in Grants on Oberhauser Foundation News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oberhauser Foundation</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 10:35:52 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.oberhauser.foundation/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grants 2020</title>
+      <link>https://blog.oberhauser.foundation/articles/grants-2020/</link>
+      <pubDate>Sun, 09 Aug 2020 10:35:52 -0400</pubDate>
+      
+      <guid>https://blog.oberhauser.foundation/articles/grants-2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Year 2020 Update&lt;/strong&gt; — This article gives a high level overview on how the 2020 grants have been distributed.
+For obvious reasons only categories and percentages are shared. The article gives
+also insight into why these categories have been selected.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

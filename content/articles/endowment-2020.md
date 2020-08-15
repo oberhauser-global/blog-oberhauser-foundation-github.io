@@ -4,7 +4,7 @@ description: 'Outlines the 2020 target capital distribution and endowment struct
 featured_image: '/images/stock-market.jpg'
 date: 2020-08-09T09:32:44-04:00
 categories: ['Article']
-tags: ['Information']
+tags: ['Report', 'Investment']
 toc: true
 draft: false
 ---

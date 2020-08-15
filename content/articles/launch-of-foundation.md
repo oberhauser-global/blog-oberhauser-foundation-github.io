@@ -5,7 +5,7 @@ featured_image: '/images/firework.jpg'
 date: 2020-06-29T10:30:27-04:00
 author: Alex Oberhauser
 categories: ['Press Release']
-tags: ['Press Release']
+tags: ['Announcement']
 toc: false
 draft: false
 ---
